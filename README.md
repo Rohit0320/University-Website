@@ -28,6 +28,7 @@ Designed to showcase a clean and responsive front page for a university or colle
    Simply open the `index.html` file in any modern browser.
 
 ## 📷 Preview
+![Website Screenshot](screenshot.png)
 
 
 ## 🛠️ Built With
