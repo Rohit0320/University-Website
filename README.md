@@ -18,17 +18,17 @@ Designed to showcase a clean and responsive front page for a university or colle
 ## 🚀 How to Use
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/Rohit0320/University-Website/.git
    ```
 2. **Navigate to the project folder**
    ```bash
-   cd your-repo-name
+   cd University-Website
    ```
 3. **Open in browser**
    Simply open the `index.html` file in any modern browser.
 
 ## 📷 Preview
-*(Add a screenshot of your website here)*
+
 
 ## 🛠️ Built With
 - HTML5
