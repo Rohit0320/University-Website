@@ -307,6 +307,11 @@ Contact:  7021677107 */
     text-align: left;
 }
 
+.playground{
+    position: relative;
+    height: 330px;
+}
+
 /* Reviews */
 
 .reviews{
